@@ -2,7 +2,7 @@
 Demo React app traininggit 
 
 # What We Will Be Building
-Using the NASA Open API: Astronomy Picture of the Day (APOD), we will be building an application that displays the information that is provided by that API. The information we will display is:
+Using the NASA Open API: Astronomy Picture of the Day (APOD), I will be building an application that displays the information that is provided by that API. The information I will display is:
 
 - The photo
 - The photo's title
